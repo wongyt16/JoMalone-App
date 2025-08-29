@@ -1,6 +1,5 @@
-package com.example.jomalonemobileapplication.data
+package com.example.jomalonemobileapplication.cart
 
-import androidx.annotation.DrawableRes
 import com.example.jomalonemobileapplication.R
 
 data class CartItem(
