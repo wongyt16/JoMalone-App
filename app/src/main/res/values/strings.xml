@@ -1,3 +1,57 @@
 <resources>
     <string name="app_name">Jo Malone Mobile Application</string>
+
+    <string name="scent_quiz_title">Fragrance Match Quiz</string>
+
+    <string name="mood_title">Mood &amp; Personality Test</string>
+    <string name="question1">1. What mood do you want your scent to reflect today?</string>
+    <string name="q1_opt1">Calm and peaceful</string>
+    <string name="q1_opt2">Bold and confident</string>
+    <string name="q1_opt3">Romantic and soft</string>
+    <string name="q1_opt4">Fresh and energetic</string>
+
+    <string name="question2">2. Which word best describes your personality?</string>
+    <string name="q2_opt1">Elegant</string>
+    <string name="q2_opt2">Free-spirited</string>
+    <string name="q2_opt3">Mysterious</string>
+    <string name="q2_opt4">Playful</string>
+
+    <string name="question3">3. Where would you most like to spend your weekend?</string>
+
+    <string name="question4">4. What time of day do you usually wear perfume?</string>
+    <string name="q4_opt1">Morning</string>
+    <string name="q4_opt2">Afternoon</string>
+    <string name="q4_opt3">Evening</string>
+    <string name="q4_opt4">Special occasions only</string>
+
+    <string name="preference_title">Scent Preferences</string>
+    <string name="question5">Which scent note do you usually enjoy the most?</string>
+    <string name="q5_opt1">Citrus &amp; fresh</string>
+    <string name="q5_opt2">Floral</string>
+    <string name="q5_opt3">Woody &amp; earthy</string>
+    <string name="q5_opt4">Spicy or oriental</string>
+
+    <string name="question6">6. Which one is your favourite colour?</string>
+
+    <string name="occasion_title">Occasion of Use</string>
+    <string name="question7">What’s your purpose for this scent?</string>
+    <string name="q7_opt1">Everyday wear</string>
+    <string name="q7_opt2">Romantic date</string>
+    <string name="q7_opt3">Gift for someone</string>
+    <string name="q7_opt4">Luxury treat for myself</string>
+
+    <string name="question8">8. How long do you want the scent to last?</string>
+    <string name="q8_opt1">/Just few hours</string>
+    <string name="q8_opt2">All day</string>
+    <string name="q8_opt3">Doesn\'t matter</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <string name="match_summary_title">Fragrance Match Summary</string>
+    <string name="signature_scent_title">Your Signature Scent</string>
+    <string name="recommended_text">Recommended Perfume</string>
+
+    <string name="customize_button">Customize Your Fragrance</string>
+    <string name="retake_quiz_button">Retake Quiz</string>
 </resources>
