@@ -40,7 +40,9 @@ fun QuestionComposables(
     onOptionSelected: (Int) -> Unit,
     modifier : Modifier = Modifier
     ) {
-    Column(modifier = modifier){
+    Column(modifier = Modifier.padding(16.dp),
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center){
         question.titleResId?.let { titleResId ->
             Text(
                 text = stringResource(titleResId),
@@ -100,7 +102,7 @@ fun ButtonBasedQuestion(
 }
 
 @Composable
-fun ImageQuestion(
+fun ImageButtonQuestion(
     question : ScentQuestion,
     onOptionSelected: (Int) -> Unit
 ){
@@ -140,11 +142,4 @@ fun ImageQuestion(
             }
         }
     }
-}
-
-@Composable
-fun ImageButtonQuestion(
-    question: ScentQuestion,
-    onOptionSelected: (Int) -> Unit) {
-
 }
